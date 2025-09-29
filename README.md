@@ -1,6 +1,6 @@
 # TUN3D: Towards Real-World Scene Understanding from Unposed Images
 [![Website](https://img.shields.io/badge/🌐Website-TUN3D-blue)](https://bulatko.github.io/tun3d/)
-[![Arxiv](https://img.shields.io/badge/arXiv-TUN3D-red)]()
+[![Arxiv](https://img.shields.io/badge/arXiv-TUN3D-red)](https://arxiv.org/abs/2509.21388)
 [![HF](https://img.shields.io/badge/🤗Weights-TUN3D-yellow)](https://huggingface.co/maksimko123/TUN3D/tree/main)
 ### 📰 News
 - :fire: **September 2025** — Initial release of **TUN3D**!  
