@@ -8,7 +8,7 @@
 This repository contains an implementation of TUN3D, a method for real-world indoor scene understanding from multi-view images.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5ca75a1c-6259-48a5-8bf2-2f7ea7fe31a2"> </video>
+  <video src="https://github.com/user-attachments/assets/8644a6d7-3a4e-4b1b-b58e-023276ea12ee"> </video>
   <p><i>TUN3D works with GT point clouds, posed images (with known camera poses), or fully unposed image sets (without poses or depths).</i></p>
 </div>
 
