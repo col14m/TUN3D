@@ -3,6 +3,7 @@
 [![Arxiv](https://img.shields.io/badge/arXiv-TUN3D-red)](https://arxiv.org/abs/2509.21388)
 [![HF](https://img.shields.io/badge/🤗Weights-TUN3D-yellow)](https://huggingface.co/maksimko123/TUN3D/tree/main)
 ### 📰 News
+- :fire: **January 2026** — **TUN3D** is accepted to ICRA 2026!
 - :fire: **September 2025** — Initial release of **TUN3D**!  
 
 This repository contains an implementation of TUN3D, a method for real-world indoor scene understanding from multi-view images.
